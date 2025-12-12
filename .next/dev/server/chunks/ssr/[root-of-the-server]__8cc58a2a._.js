@@ -90,7 +90,7 @@ const metadata = {
                 type: "image/svg+xml"
             }
         ],
-        apple: "/apple-icon.png"
+        apple: "/logo-payrollpro.jpeg"
     }
 };
 function RootLayout({ children }) {
