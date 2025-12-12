@@ -52,7 +52,6 @@ export default function HomePage() {
               </Button>
             </Link>
           </div>
-          <p className="mt-6 text-sm text-slate-500">Demo: admin@payroll.com / admin123</p>
         </div>
       </section>
 
