@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/payslips/layout,_N_T_/payslips/page,_N_T_/payslips"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/payslips/__PAGE__",
+    "/payslips",
+    "/_index",
+    "/_head"
+  ]
+}

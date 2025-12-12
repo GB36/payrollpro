@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/page": "/dashboard",
+  "/employees/page": "/employees",
+  "/login/page": "/login",
+  "/page": "/",
+  "/payroll/page": "/payroll",
+  "/payslips/page": "/payslips",
+  "/register/page": "/register"
+}
